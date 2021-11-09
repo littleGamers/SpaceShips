@@ -15,7 +15,7 @@ Move with the left and right arrow keys.
 
 
 Play the game on Itch.io:
-https://littlegamers2021.itch.io/hw01-b-splitscreen
+https://littlegamers2021.itch.io/spaceship-shani
 
 ## Components
 **SpaceShip -** Shoot the asteroids that fall from the sky, avoid them.
@@ -23,6 +23,6 @@ https://littlegamers2021.itch.io/hw01-b-splitscreen
 1) Added hit points to the player (3 hit points till game over).
 2) Original change is dropping a bomb (slower speed and less spawn),
   if the player grabs it - there's a big explosion and all enemies are dead.
-. [Source Code.](2A_Minimap/Assets/walk.cs)
+  [Source Code.](2A_Minimap/Assets/walk.cs)
 
 ## **Have Fun!**
