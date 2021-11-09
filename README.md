@@ -36,7 +36,7 @@ https://littlegamers2021.itch.io/spaceship-shani
 [Source Code.](Avshalom)
 
 Play the game on Itch.io:
-https://littlegamers2021.itch.io/spaceship-shani
+https://littlegamers2021.itch.io/spaceships-avshalom
 
 ### The Changes I Made: 
 1) **Round World -** Added the abilty to move through one side of the screen to the other side.
