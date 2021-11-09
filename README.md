@@ -25,9 +25,9 @@ https://littlegamers2021.itch.io/spaceship-shani
 2) Original change is dropping a bomb (slower speed and less spawn),
   if the player grabs it - there's a big explosion and all enemies are dead.
 ### Scripts added:
-  [](Shani/Assetes/BombHit.cs)
-  [](Shani/Assetes/EnemyHit.cs)
-  [](Shani/Assetes/RandomBombExplosion.cs)
+  [BombHit](Shani/Assetes/BombHit.cs)
+  [EnemyHit](Shani/Assetes/EnemyHit.cs)
+  [RandomBombExplosion](Shani/Assetes/RandomBombExplosion.cs)
 
 ## Avvshalom Avraham
 
